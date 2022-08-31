@@ -1,4 +1,4 @@
-/* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
+/* Toggle between Hamburger Menu and Navigation Menu */
 
 function toggleNav() {
     var  menu_status = document.getElementById("nav-link");
